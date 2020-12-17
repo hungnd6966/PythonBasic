@@ -1,0 +1,10 @@
+Nguyen Van A;Female;DT4;10
+Nguyen Van C;Male;DT4;8
+Nguyen Van D;Male;DT1;6
+Nguyenx Van E;Female;Nhat2;9
+Nguyen Van F;Female;DT7;8
+Nguyen Van ahjhj;Male;DT2;8
+Nguyen Duog Hung;Male;hung;9
+Nguyen Duy Hung;Male;IT9;9
+Tran Van AAA;Male;IT1;8
+ Tan Van A;Male;IT1;7
