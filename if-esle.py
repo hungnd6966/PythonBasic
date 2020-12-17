@@ -31,4 +31,5 @@ def main():
     kiemtra(diem_SV)
     
 if  __name__ == '__main__':
+    print("Chuong trinh chuyen doi diem chosinh vien")
     main()
