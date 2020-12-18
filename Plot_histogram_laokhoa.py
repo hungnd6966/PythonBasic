@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 #df = pd.read_excel("D:\DataPython\First.xlsx", 'dt')
-df = pd.read_excel("D:\Machine Learning\Laboratory Blood Test Analysis\ML_Laboratory\input\laokhoa.xlsx", 'laokhoa')
+df = pd.read_excel("D://Datasets/Dataset_LaoKhoa/laokhoa.xlsx", 'laokhoa')
 #Remove Duplicate Values based on values of variables "Gender" and "BMI"
 #rem_dup=df.drop_duplicates(['Gender', 'BMI'])
 #print(rem_dup)
