@@ -1,0 +1,4 @@
+Chieu dai:999.0
+Chieu rong999.0
+Chu vi:3996.0
+Dien tich:998001.0
